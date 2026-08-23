@@ -1,0 +1,2 @@
+The ventral tegmental area (VTA) is ==a group of neurons in the midbrain involved in reward, motivation, and addiction==. It's a key part of the brain's reward system, releasing dopamine to other areas like the nucleus accumbens. The VTA also plays a role in various psychiatric disorders.
+![[Pasted image 20250730152638.png]]
